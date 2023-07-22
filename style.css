@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(209, 177, 238);
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid red;
+    width: 1250px;
+    height: 300px;
+    
+}
+
+    
+
+tr{
+    background-color: rgb(224, 153, 91);
+    border: 1px solid black;
+    
+}
+.main{
+    background-color: gold;
+}
